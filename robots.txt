@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqefeahi.github.io/EHl/sitemap_index.txt
+Sitemap: https://uqefeahi.github.io/ERm/sitemap_index.txt
+Sitemap: https://uqefeahi.github.io/mFU/sitemap_index.txt
+Sitemap: https://uqefeahi.github.io/nrR/sitemap_index.txt
